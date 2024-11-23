@@ -1,8 +1,8 @@
-### Hi 我是張可庭👋
+### Hi👋
 
-碩一資工所 :eyes::eyes::eyes::eyes:
+中正碩一資工所 :eyes::eyes::eyes::eyes:
 
-以下是我的有參與過的專題（課堂、畢業專題）：
+以下是我在大學的有參與過的專題（課堂、畢業專題）：
 * 課堂專題：:kissing_heart:
   
   1. django-web-bakery-
@@ -18,6 +18,8 @@
   
   1. Graduate_Project_for_Java
 
+研究所專案：
+* 手語數位教材、認證網站
 
 <!--
 **b0989596914/b0989596914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
