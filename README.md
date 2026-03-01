@@ -1,6 +1,6 @@
 ### Hi👋
 
-中正碩一資工所 :eyes::eyes::eyes::eyes:
+中正碩二資工所 :eyes::eyes::eyes::eyes:
 
 以下是我在大學的有參與過的專題（課堂、畢業專題）：
 * 課堂專題：:kissing_heart:
@@ -20,6 +20,7 @@
 
 研究所專案：
 * 手語數位教材、認證網站
+* jetson AGX orin 之 DLA 能耗預測器
 
 <!--
 **b0989596914/b0989596914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
