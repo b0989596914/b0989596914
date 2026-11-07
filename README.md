@@ -1,6 +1,6 @@
 ### Hi👋
 
-中正碩二資工所 :eyes::eyes::eyes::eyes:
+2026/07 畢業於中正資工所 :eyes::eyes::eyes::eyes:
 
 以下是我在大學的有參與過的專題（課堂、畢業專題）：
 * 課堂專題：:kissing_heart:
